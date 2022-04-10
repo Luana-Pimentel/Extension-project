@@ -19,9 +19,9 @@ Acesse: link da aplicação
 
 <div align="center">
 
-## Integrantes
+## Integrante
 
-<a href="https://github.com/Luana-Pimentel" title="Luana Pimentel" rel="nofollow"><img src="docs/img/Luana_Pimentel.png" alt="logo" data-canonical-src="https://github.com/Luana-Pimentel" width="100vw"/></a> 
+<a href="https://github.com/Luana-Pimentel" title="Luana Pimentel" rel="nofollow"><img src="docs/img/Luana_Pimentel.PNG" alt="logo" data-canonical-src="https://github.com/Luana-Pimentel" width="100vw"/></a> 
   
 <br> Luana Pimentel <br>
 
