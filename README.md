@@ -1,39 +1,56 @@
-# Título do Projeto
+<div align="center">
 
-`CURSO: Sistemas de Informação`
+<h1>Titulo</h1>
 
-`DISCIPLINA: Projeto - Aplicações Web`
+Imagem ilustrativa
 
-`SEMESTRE: 1º`
+<h3>Pontifícia Universidade Católica de Minas Gerais</h3>
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Sistemas de Informação
+
+Projeto Pessoal - Aplicações Web | 1º Semestre 
+  
+<div align="justify">
+  
+<p> Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido. </p>
+
+Acesse: link da aplicação
+</div>
+
+<div align="center">
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+<a href="https://github.com/Luana-Pimentel" title="Luana Pimentel" rel="nofollow"><img src="docs/img/Luana_Pimentel.png" alt="logo" data-canonical-src="https://github.com/Luana-Pimentel" width="100vw"/></a> 
+  
+<br> Luana Pimentel <br>
 
-## Orientador
+  
+## Documentação
 
-* Nome completo do professor 1
+<div align="left">
+<ol>
+<li><a href="docs/context.md"> Documentação de Contexto</a></li>
+<li><a href="docs/especification.md"> Especificação do Projeto</a></li>
+<li><a href="docs/interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/template.m"> Template padrão do Site</a></li>
+<li><a href="docs/development.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/tests.md"> Registro de Testes de Software</a></li>
+<li><a href="presentation/README.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/13-Referências.md"> Referências</a></li>
+</ol>
+</div>
 
-# Planejamento
+## Código
 
-| Etapa         | Período                   | Atividades |
-|  :----:   |  :----:               | ----------- |
-| ETAPA 1       | 07/03/2022 - 01/04/2022   |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
-| ETAPA 2       | 04/04/2022 - 29/04/2022   |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) |
-| ETAPA 3       | 02/05/2022 - 27/05/2022   |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
-| ETAPA 4       | 30/05/2022 - 24/06/2022   |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
-| ETAPA 5       | 27/06/2022 - 08/07/2022   | [Apresentação](presentation/README.md) |
-
-# Código
-
+<div align="left">
 <li><a href="src/README.md"> Código Fonte</a></li>
 
-# Apresentação
+</div>
 
+## Apresentação
+
+<div align="left">
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+</div>
